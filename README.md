@@ -13,8 +13,8 @@ The STOCK API is fork from
 1.Clone the repo
 
     $ git clone https://github.com/a0981456759/FTX_USD_auto_lending.git
-
-2. install the requirments
+    
+2.install the requirments
 
     $ pip install requirments.txt
     
@@ -28,5 +28,9 @@ you can get the price, trade volume, bid price, ask price,
     
 ## Contributor
 1. Wang Chen Hsuan
-2.
+2.twstock(https://github.com/mlouielu/twstock)
+Copyright (c) 2017-2019 Louie Lu
 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 「Software」), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:Copyright (c) 2017-2019 Louie Lu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 「Software」), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
